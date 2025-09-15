@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Anthony Caputo",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://thecaputogroup.ca/contact/",
+    "mainCTAButtonURL": "https://calendly.com/marc-imbrogno/quick-call-request-let-s-connect",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
