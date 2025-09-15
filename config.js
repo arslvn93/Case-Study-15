@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Anthony Caputo",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://thecaputogroup.ca/contact/",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
