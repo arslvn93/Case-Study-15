@@ -32,7 +32,7 @@ const config = {
     "summary": {
       "title": "How We Helped First-Time Sellers in Bolton Sell Their Home for $890,000 in Just 19 Days While Similar Properties Sat Unsold",
       "heroImage": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://freeimage.host/i/KA5JDsp"
       },
       "subTitle": "Summary",
       "paragraphs": [
