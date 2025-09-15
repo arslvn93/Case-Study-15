@@ -84,7 +84,7 @@ const config = {
         "After researching agents in Bolton, they chose to work with Anthony Caputo because of his proven reputation in the community and deep knowledge of local buyers. What sealed the deal was learning about his full-service team approach and database of active buyers already looking in their area."
       ],
       "image": {
-        "src": "https://case-study-15.netlify.app/"
+        "src": "https://iili.io/KARbWfn.webp"
       },
       "listItems": []
     },
