@@ -124,7 +124,7 @@ const config = {
       "href": "https://thecaputogroup.ca/privacy/"
     },
     "logo": {
-      "src": "https://replicate.delivery/xezq/oNVFQyl3CY7EEdyZ3npFWKkaeadR4W0df4OvcE8QKdzTvw8UA/tmp3kr92ufe.png"
+      "src": "https://iili.io/K5srt2e.webp"
     },
     "secondaryLogo": {
       "src": "https://iili.io/K5PBDjR.webp"
