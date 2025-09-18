@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Anthony Caputo",
-        "imageSrc": "https://iili.io/K5PBtTv.webp",
+        "imageSrc": "https://iili.io/K5P7AQe.webp",
         "contactDetails": [
           {
             "type": "email",
