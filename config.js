@@ -55,10 +55,10 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "\"We had no idea if we should sell first or buy first – the timing felt impossible to figure out\"",
-        "\"Our biggest fear was how long it would take – we kept hearing horror stories about homes sitting on the market for months\"",
-        "\"We watched comparable properties in our neighborhood get listed and just sit there with no activity\"",
-        "\"We needed to sell at a good price to afford our next home, but didn't know if the market would cooperate\""
+        "-We had no idea if we should sell first or buy first – the timing felt impossible to figure out",
+        "-Our biggest fear was how long it would take – we kept hearing horror stories about homes sitting on the market for months",
+        "-We watched comparable properties in our neighborhood get listed and just sit there with no activity",
+        "-We needed to sell at a good price to afford our next home, but didn't know if the market would cooperate"
       ],
       "listItems": []
     },
@@ -66,11 +66,11 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "<strong>Strategic Pricing from Day One</strong>: Instead of testing the market high, we analyzed comparable sales and priced competitively at $899,999 to generate immediate interest",
-        "<strong>Professional Staging & Photography</strong>: Invested in premium presentation that made their home stand out from the competition sitting stagnant nearby",
-        "<strong>Targeted Buyer Outreach</strong>: Leveraged our exclusive database of pre-qualified buyers actively searching in Bolton",
-        "<strong>Full-Team Support</strong>: Provided dedicated coordination across all aspects of the sale, ensuring seamless communication throughout",
-        "<strong>Market-Timing Expertise</strong>: Guided them through the sell-first strategy with confidence, eliminating their biggest fear about timing"
+        "-<strong>Strategic Pricing from Day One</strong>: Instead of testing the market high, we analyzed comparable sales and priced competitively at $899,999 to generate immediate interest",
+        "-<strong>Professional Staging & Photography</strong>: Invested in premium presentation that made their home stand out from the competition sitting stagnant nearby",
+        "-<strong>Targeted Buyer Outreach</strong>: Leveraged our exclusive database of pre-qualified buyers actively searching in Bolton",
+        "-<strong>Full-Team Support</strong>: Provided dedicated coordination across all aspects of the sale, ensuring seamless communication throughout",
+        "-<strong>Market-Timing Expertise</strong>: Guided them through the sell-first strategy with confidence, eliminating their biggest fear about timing"
       ],
       "testimonial": {
         "quote": "\"\"We couldn't be happier with the results. While other similar properties in our neighborhood were listed and just sitting there with no activity, Anthony got us sold in under three weeks with multiple offers. The relief we felt knowing we could move forward with buying our new home was incredible. He met and exceeded every expectation we had.\"\"<br><span>— Satisfied Client</span>"
@@ -92,10 +92,10 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SOLD IN 19 DAYS</strong> – 9 days faster than the 28-day market average",
-        "<strong>5 COMPETITIVE OFFERS</strong> from just 12 strategic showings",
-        "<strong>$890,000 FINAL PRICE</strong> – 99% of asking price while comparable homes sat unsold",
-        "While they achieved $9,999 under their original asking price, this represented a strategic win in a market where overpriced homes were stalling completely. The speed and competitive offers allowed them to move forward with their upsizing plans immediately."
+        "-<strong>SOLD IN 19 DAYS</strong> – 9 days faster than the 28-day market average",
+        "-<strong>5 COMPETITIVE OFFERS</strong> from just 12 strategic showings",
+        "-<strong>$890,000 FINAL PRICE</strong> – 99% of asking price while comparable homes sat unsold",
+        "-While they achieved $9,999 under their original asking price, this represented a strategic win in a market where overpriced homes were stalling completely. The speed and competitive offers allowed them to move forward with their upsizing plans immediately."
       ],
       "listItems": []
     },
