@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Anthony Caputo",
-        "imageSrc": "https://replicate.delivery/xezq/oNVFQyl3CY7EEdyZ3npFWKkaeadR4W0df4OvcE8QKdzTvw8UA/tmp3kr92ufe.png",
+        "imageSrc": "https://iili.io/K5PBtTv.webp",
         "contactDetails": [
           {
             "type": "email",
