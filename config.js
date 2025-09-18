@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Meet the Johnsons, a growing family who had outgrown their beloved Bolton home. As first-time sellers facing the daunting task of upsizing, they were caught in the classic dilemma: sell first or buy first? With no experience navigating the complexities of today's real estate market, they needed an agent who could deliver results quickly and efficiently.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN 19 DAYS:</strong> 9 days faster than the 28-day market average. <strong>5 COMPETITIVE OFFERS:</strong> from just 12 strategic showings. <strong>$890,000 FINAL PRICE:</strong> – 99% of asking price while comparable homes sat unsold While they achieved $9,999 under their original asking price, this represented a strategic win in a market where overpriced homes were stalling completely. The speed and competitive offers allowed them to move forward with their upsizing plans immediately."
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN 19 DAYS:</strong> 9 days faster than the 28-day market average. <strong>5 COMPETITIVE OFFERS:</strong> from just 12 strategic showings. <strong>$890,000 FINAL PRICE:</strong> 99% of asking price while comparable homes sat unsold While they achieved $9,999 under their original asking price, this represented a strategic win in a market where overpriced homes were stalling completely. The speed and competitive offers allowed them to move forward with their upsizing plans immediately."
       ]
     },
     "sidebar": {
