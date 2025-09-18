@@ -26,7 +26,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped First-Time Sellers in Bolton Sell Their Home for $890,000 in Just 19 Days While Similar Properties Sat Unsold",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
+    "subheadline": "Smart Purchase, Strong Terms — Now Earning Premium Rent Each Month"
   },
   "mainBox": {
     "summary": {
