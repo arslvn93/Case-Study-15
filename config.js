@@ -127,7 +127,7 @@ const config = {
       "src": "https://replicate.delivery/xezq/oNVFQyl3CY7EEdyZ3npFWKkaeadR4W0df4OvcE8QKdzTvw8UA/tmp3kr92ufe.png"
     },
     "secondaryLogo": {
-      "src": "https://i.imgur.com/9GIzqTo.png"
+      "src": "https://iili.io/K5PBDjR.webp"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Re/Max Experts",
