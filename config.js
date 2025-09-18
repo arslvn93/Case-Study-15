@@ -43,7 +43,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://replicate.delivery/xezq/oNVFQyl3CY7EEdyZ3npFWKkaeadR4W0df4OvcE8QKdzTvw8UA/tmp3kr92ufe.png"
+        "src": "https://iili.io/K5PBDjR.webp"
       },
       "paragraphs": [
         "We have strong brand awareness in our local market, primarily built through traditional methods such as repeat and referral business, mailers, and community presence. However, we're looking to expand our reach through online lead generation and digital marketing. Our main challenge is implementing the right systems to manage and convert those leads effectively. Specifically, we need support in organizing our CRM and establishing streamlined processes to ensure we’re consistently following up, nurturing, and converting leads into clients."
